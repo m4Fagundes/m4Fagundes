@@ -40,6 +40,12 @@
 ![C++](https://img.shields.io/badge/-cPlusPlus-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
+<div align="center"> 
+ 
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{galinhafrita}/count.svg" /></p> 
