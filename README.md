@@ -39,7 +39,7 @@
   
 ### Studying in this moment:
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=JAVA3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
