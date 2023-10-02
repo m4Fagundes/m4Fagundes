@@ -17,9 +17,8 @@
 </div> 
  
 ### Main skills:
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;  
 ![C++](https://img.shields.io/badge/-cPlusPlus-0D1117?style=for-the-badge&logo=cPlusPlus&logoColor=purple&labelColor=0D1117)&nbsp;
 
  
@@ -28,6 +27,8 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
@@ -39,7 +40,6 @@
   
 ### Studying in this moment:
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <div align="center">
