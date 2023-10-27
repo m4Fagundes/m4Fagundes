@@ -42,6 +42,7 @@
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![REACT](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![NODE](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=node&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![SpringBoot](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117e)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
