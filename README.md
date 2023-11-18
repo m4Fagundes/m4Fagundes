@@ -30,7 +30,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![Intellij](https://img.shields.io/badge/-IntellijIDEA-0D1117?style=for-the-badge&logo=Intellij&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Intellij](https://img.shields.io/badge/-Intellij-0D1117?style=for-the-badge&logo=Intellij-IDEA&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 
  
 ### Other Knowledge:
