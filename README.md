@@ -31,6 +31,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![Intellij](https://img.shields.io/badge/-Intellij-0D1117?style=for-the-badge&logo=Intellij-IDEA&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Rider](https://img.shields.io/badge/-Rider-0D1117?style=for-the-badge&logo=Rider-IDEA&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 
  
 ### Other Knowledge:
@@ -42,9 +43,8 @@
 ### Studying in this moment:
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![SQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![REACT](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![NODE](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![C#](https://img.shields.io/badge/csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![.NET](https://img.shields.io/badge/dotnet-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117e)&nbsp;
 
 
 <div align="center">
