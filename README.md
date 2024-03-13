@@ -18,7 +18,8 @@
  
 ### Main skills:
 
-![C++](https://img.shields.io/badge/-cPlusPlus-0D1117?style=for-the-badge&logo=cPlusPlus&logoColor=purple&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![.NET](https://img.shields.io/badge/dotnet-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;  
 
  
@@ -44,8 +45,7 @@
 ### Studying in this moment:
 ![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![SQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![C#](https://img.shields.io/badge/csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![.NET](https://img.shields.io/badge/dotnet-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117e)&nbsp;
+
 
 
 <div align="center">
