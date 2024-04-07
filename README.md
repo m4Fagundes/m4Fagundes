@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/mfagundes_13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
-### Main skills:
+### Main skills: 
 
 ![C#](https://img.shields.io/badge/csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![.NET](https://img.shields.io/badge/dotnet-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117e)&nbsp;
