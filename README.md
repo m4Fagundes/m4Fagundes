@@ -20,7 +20,8 @@
 
 ![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/dotnet-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;  
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SpringBoot](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117e)&nbsp;
 
  
 ### Tools:
@@ -30,7 +31,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![MacOs](https://img.shields.io/badge/-MacOs-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![SpringBoot](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![Intellij](https://img.shields.io/badge/-Intellij-0D1117?style=for-the-badge&logo=Intellij-IDEA&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Rider](https://img.shields.io/badge/-Rider-0D1117?style=for-the-badge&logo=Rider&labelColor=0D1117)&nbsp; 
 
