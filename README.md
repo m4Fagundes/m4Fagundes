@@ -18,28 +18,30 @@
  
 ### Main skills: 
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117e)&nbsp;
 
  
 ### Tools:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![MacOs](https://img.shields.io/badge/-MacOs-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
-![Intellij](https://img.shields.io/badge/-Intellij-0D1117?style=for-the-badge&logo=Intellij-IDEA&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![MacOs](https://img.shields.io/badge/MacOs-0D1117?style=for-the-badge&logo=MacOs&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![Intellij](https://img.shields.io/badge/Intellij-0D1117?style=for-the-badge&logo=Intellij-IDEA&labelColor=0D1117&textColor=0D1117e)&nbsp;
+
 
  
 ### Other Knowledge: 
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![SQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117e)&nbsp;
+
 
 
   
 ### Studying in this moment:
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=Amazon&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117&textColor=0D1117e)&nbsp;
+
 
 
 
