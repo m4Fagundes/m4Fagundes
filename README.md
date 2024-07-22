@@ -39,6 +39,8 @@
 ### Studying in this moment:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=Amazon&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117e)&nbsp;
+
 
 
 
