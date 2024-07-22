@@ -32,7 +32,7 @@
 ### Other Knowledge: 
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![JWT](https://img.shields.io/badge/jwt-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![JWT](https://img.shields.io/badge/jwt-0D1117?style=for-the-badge&logo=jwt&labelColor=0D1117&textColor=0D1117e)&nbsp;
 
 
   
