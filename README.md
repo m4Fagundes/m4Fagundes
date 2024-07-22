@@ -25,7 +25,7 @@
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117&textColor=0D1117e)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![MacOs](https://img.shields.io/badge/MacOs-0D1117?style=for-the-badge&logo=MacOs&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![MacOs](https://img.shields.io/badge/-MacOs-0D1117?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
 ![Intellij](https://img.shields.io/badge/Intellij-0D1117?style=for-the-badge&logo=Intellij-IDEA&labelColor=0D1117&textColor=0D1117e)&nbsp;
 
 
