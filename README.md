@@ -33,7 +33,7 @@
 ### Other Knowledge: 
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117e)&nbsp;
-![CSharp](https://img.shields.io/badge/C#-0D1117?style=for-the-badge&logo=Csharp&labelColor=0D1117&textColor=0D1117e)&nbsp;
+![C](https://img.shields.io/badge/CSharp-0D1117?style=for-the-badge&logo=C#&labelColor=0D1117&textColor=0D1117e)&nbsp;
 
 
 
